@@ -3,3 +3,5 @@
 [1.Two Sum](https://leetcode.com/problems/two-sum/)
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 [128.LongestConsecutiveSequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
