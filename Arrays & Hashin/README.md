@@ -5,3 +5,4 @@
 [128.LongestConsecutiveSequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+[659 · Encode and Decode Strings](https://www.lintcode.com/problem/659/description)
