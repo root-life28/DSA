@@ -7,3 +7,5 @@
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 [659 · Encode and Decode Strings](https://www.lintcode.com/problem/659/description)
 [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
