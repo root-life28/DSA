@@ -4,7 +4,7 @@ using namespace std;
 
 bool solve(vector<string>&vr)
 {
-
+ 
 }
 
 int main()
