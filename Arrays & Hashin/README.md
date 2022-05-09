@@ -12,3 +12,4 @@
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 [118. Pascal's Triangle(https://leetcode.com/problems/pascals-triangle/)]
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
