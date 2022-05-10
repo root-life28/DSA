@@ -13,3 +13,5 @@
 [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 [118. Pascal's Triangle(https://leetcode.com/problems/pascals-triangle/)]
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
+[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
