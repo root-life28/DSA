@@ -68,14 +68,13 @@ vector<int> solve(vector<vector<int>>&matrix)
 int main()
 {
     vector<vector<int>>vr={{1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16}};
-    //1 2 3 6 9 8 7 4 5
 
     vector<int>res=solve(vr);
 
     for (int i = 0; i <res.size(); i++)
     {
         cout<<res[i]<<" ";
-        if(i>0&&i%3==0)cout<<endl;
+        if(i>0&&i%(vr[0].size()-1)==0)cout<<endl;
         /* code */
     }
     
