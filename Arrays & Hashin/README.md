@@ -18,3 +18,7 @@
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+[48. Rotate Image](https://leetcode.com/problems/rotate-image/)
+[79. Word Search](https://leetcode.com/problems/word-search/)
+[1010. Pairs of Songs](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
+[289. Game of Life](https://leetcode.com/problems/game-of-life/)
