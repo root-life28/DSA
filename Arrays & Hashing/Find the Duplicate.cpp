@@ -25,6 +25,8 @@ int solve(vector<int>&vr)
     while (low<=high)
     {
         int mid =low+(high-low)/2;
+
+        cout<<mid<<" "<<low<<high<<endl;
         int cnt=0;
         for (int i = 0; i <vr.size(); i++)
         {

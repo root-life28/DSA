@@ -22,3 +22,4 @@
 [79. Word Search](https://leetcode.com/problems/word-search/)
 [1010. Pairs of Songs](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
 [289. Game of Life](https://leetcode.com/problems/game-of-life/)
+[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
