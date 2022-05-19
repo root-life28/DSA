@@ -11,7 +11,7 @@
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
-[118. Pascal's Triangle(https://leetcode.com/problems/pascals-triangle/)]
+[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
@@ -23,3 +23,5 @@
 [1010. Pairs of Songs](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)
 [289. Game of Life](https://leetcode.com/problems/game-of-life/)
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+[18. 4Sum](https://leetcode.com/problems/4sum/)
