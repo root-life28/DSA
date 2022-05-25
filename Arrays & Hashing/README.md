@@ -25,3 +25,4 @@
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 [18. 4Sum](https://leetcode.com/problems/4sum/)
+[37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
