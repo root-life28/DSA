@@ -2,3 +2,4 @@
 [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 [Car Fleet](https://leetcode.com/problems/car-fleet/)
 [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
