@@ -2,3 +2,5 @@
 [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 [ Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
