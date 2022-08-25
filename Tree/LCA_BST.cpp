@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+int ans=0;
+
 struct node{
     int val;
     struct node *left,*right;
@@ -35,51 +37,41 @@ void print (struct node *root)
     print(root->right);
 }
 
-vector<vector<int>> levelOrder(struct node *root)
+int LCA(struct node *root,int a,int b)
 {
-    vector<vector<int>>res;
-    if(root==NULL) return res;
-    queue<struct node *>qu;
-    qu.push(root);
-
-    while (!qu.empty())
+    if(root->val>a&&root->val>b)
     {
-        int size=qu.size();
-       vector<int>vr;
-       
-        for (int i = 0; i < size; i++)
-        {
-            auto x=qu.front();
-            qu.pop();
-            vr.push_back(x->val);
-            if(x->left!=NULL) qu.push(x->left);
-            if(x->right!=NULL)qu.push(x->right);
-        }
-        
-        res.push_back(vr);
+        LCA(root->left,a,b);
     }
-    
-    return res;
-}
+    else if(root->val<a&&root->val<b)
+    {
+        LCA(root->left,a,b);
+    }
+    else 
+    {
+        return ans=root->val;
+    }
 
+    return ans;
+}
 
 int main()
 {
     struct node *root=NULL;
-    root=insertNode(root,4);
+    root=insertNode(root,6);
 
     insertNode(root,2);
-    insertNode(root,5);
-    insertNode(root,1);
+    insertNode(root,8);
+    insertNode(root,0);
+    insertNode(root,4);
+    insertNode(root,7);
+    insertNode(root,9);
     insertNode(root,3);
-    insertNode(root,6);
+    insertNode(root,5);
 
-    vector<vector<int>>res=levelOrder(root);
 
-    for(auto x:res){
-    for(auto y:x)cout<<y<<" "; 
-    cout<<endl;
-    }
+    cout<<LCA(root,2,4);
 
+ 
     return 0;
 }
