@@ -2,3 +2,5 @@
 [LCA_BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 [LCA](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
