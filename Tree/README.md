@@ -4,3 +4,4 @@
 [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+[Kth Smallest Element in a BST]()
