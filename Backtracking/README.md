@@ -6,3 +6,4 @@
 [Word Search](https://leetcode.com/problems/word-search/)
 [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+[N-Queens](https://leetcode.com/problems/n-queens/)
