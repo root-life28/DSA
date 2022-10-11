@@ -2,3 +2,4 @@
 .vscode
 *.exe
 temp.cpp
+*.bin
