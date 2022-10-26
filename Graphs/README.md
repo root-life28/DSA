@@ -5,3 +5,4 @@
 [Course Schedule](https://leetcode.com/problems/course-schedule/)
 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+[CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)
