@@ -1,1 +1,4 @@
 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+[House Robber](https://leetcode.com/problems/house-robber/)
+[House Robber II](https://leetcode.com/problems/house-robber-ii/)
