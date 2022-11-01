@@ -2,3 +2,4 @@
 [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 [House Robber](https://leetcode.com/problems/house-robber/)
 [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
