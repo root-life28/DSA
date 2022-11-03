@@ -5,3 +5,4 @@
 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 [Decode Ways](https://leetcode.com/problems/decode-ways/)
+[Coin Change](https://leetcode.com/problems/coin-change/)
