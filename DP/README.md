@@ -6,3 +6,4 @@
 [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 [Decode Ways](https://leetcode.com/problems/decode-ways/)
 [Coin Change](https://leetcode.com/problems/coin-change/)
+[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
