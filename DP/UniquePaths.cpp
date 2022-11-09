@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int temp[101][101]={0};
+//recursive approach
 int solve(int i,int j,int m,int n)
 {
   if(i>=m||j>=n) return 0;
@@ -17,7 +18,7 @@ int main()
 {
     int m=3;
     int n=7;
-
+  // Bottom -up approach
     vector<vector<int>>dp(n+1,vector<int>(m+1,0));
 
     for (int i = 0; i <m; i++)dp[0][i]=1;
@@ -33,7 +34,7 @@ int main()
     }
 
   cout<<dp[n-1][m-1]<<endl;
- 
+ //recursive call
   cout<<solve(0,0,m,n);
 
     return 0;
