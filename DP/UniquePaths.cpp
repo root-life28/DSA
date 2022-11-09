@@ -1,10 +1,22 @@
 #include<bits/stdc++.h>
 using namespace std;
+int temp[101][101]={0};
+int solve(int i,int j,int m,int n)
+{
+  if(i>=m||j>=n) return 0;
+  if(i==m-1&&j==n-1) return 1;
+  if(temp[i][j]) return temp[i][j];
+  int a=0,b=0;
+  a=solve(i+1,j,m,n);
+  b=solve(i,j+1,m,n);
+
+  return temp[i][j]=a+b;
+}
 
 int main()
 {
-    int m=1;
-    int n=2;
+    int m=3;
+    int n=7;
 
     vector<vector<int>>dp(n+1,vector<int>(m+1,0));
 
@@ -22,6 +34,7 @@ int main()
 
   cout<<dp[n-1][m-1]<<endl;
  
+  cout<<solve(0,0,m,n);
 
     return 0;
 }
