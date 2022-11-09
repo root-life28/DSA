@@ -8,4 +8,5 @@
 [Coin Change](https://leetcode.com/problems/coin-change/)
 [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-[416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+[Unique Paths](https://leetcode.com/problems/unique-paths/)
