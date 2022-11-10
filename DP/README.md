@@ -10,3 +10,4 @@
 [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 [Unique Paths](https://leetcode.com/problems/unique-paths/)
+[Word Break](https://leetcode.com/problems/word-break/)
