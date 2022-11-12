@@ -26,5 +26,26 @@ int main()
     int m=text2.size();
     vector<vector<int>>dp(text1.size()+1,vector<int>(text2.size()+1,-1));
     cout<<solve(text1,text2,0,0,n,m,dp)<<endl;
+
+    //Bottom up approach
+
+    vector<vector<int>>dp1(n+2,vector<int>(m+2,0));
+    for (int i = 1; i <=n; i++)
+    {
+        for (int j =1; j <=m; j++)
+        {
+            if(text1[i-1]==text2[j-1])
+            {
+                dp1[i][j]=dp1[i-1][j-1]+1;
+            }
+            else {
+                dp1[i][j]=max(dp1[i-1][j],dp1[i][j-1]);
+            }
+        }        
+    }
+
+    cout<<dp1[n][m];
+    
+
     return 0;
 }
