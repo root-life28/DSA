@@ -14,3 +14,5 @@
 [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
 [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+[Edit Distance](https://leetcode.com/problems/edit-distance/)
