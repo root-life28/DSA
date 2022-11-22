@@ -2,7 +2,6 @@
 using namespace std;
 int solve(vector<vector<int>>&matrix,int i,int j,int n,int m,vector<vector<int>>&dp)
 {
-    if(i==n||j==m) return 0;
     if(dp[i][j]) return dp[i][j];
     int a=1,b=1,c=1,d=1;
     if(j+1<m&&matrix[i][j]<matrix[i][j+1]&&dp[i][j]==0)

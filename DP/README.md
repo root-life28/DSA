@@ -18,3 +18,5 @@
 [Edit Distance](https://leetcode.com/problems/edit-distance/)
 [Interleaving String](https://leetcode.com/problems/interleaving-string/)
 [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+[Burst Balloons](https://leetcode.com/problems/burst-balloons/);
