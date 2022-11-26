@@ -20,3 +20,4 @@
 [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
 [Burst Balloons](https://leetcode.com/problems/burst-balloons/);
+[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
