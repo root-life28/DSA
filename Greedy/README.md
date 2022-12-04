@@ -3,3 +3,4 @@
 [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
 [Gas Station](https://leetcode.com/problems/gas-station/)
+[Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)
