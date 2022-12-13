@@ -21,3 +21,4 @@
 [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
 [Burst Balloons](https://leetcode.com/problems/burst-balloons/);
 [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
