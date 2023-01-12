@@ -7,3 +7,4 @@
 [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 [CLFLARR - COLORFUL ARRAY](https://www.spoj.com/problems/CLFLARR/)
 [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+[ Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)
