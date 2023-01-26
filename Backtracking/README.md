@@ -7,4 +7,4 @@
 [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 [N-Queens](https://leetcode.com/problems/n-queens/)
-[Non-decreasing Subsequences]()
+[Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
