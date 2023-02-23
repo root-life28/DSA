@@ -26,3 +26,6 @@
 [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 [18. 4Sum](https://leetcode.com/problems/4sum/)
 [37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+[LFU Cache](https://leetcode.com/problems/lfu-cache/)
+[LRU Cache](https://leetcode.com/problems/lru-cache/)
+[Naming a Company](https://leetcode.com/problems/naming-a-company/)
